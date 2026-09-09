@@ -1,6 +1,6 @@
 # Mechanics of Long-Context Hybrid Models
 
-Part 1.1: [From Hybrid Attention to Hybrid Position](https://github.com/OpenMOSS/Hybrid-Mechanics/part1_1-hybrid_position.pdf) 
+Part 1.1: [From Hybrid Attention to Hybrid Position](https://github.com/OpenMOSS/Hybrid-Mechanics/blob/main/part1_1-hybrid_position.pdf) 
 
 1. **From Hybrid Attention to Hybrid Position**. Hybrid models improve long-context performance and length extrapolation through hybrid position, combining NoPE with other position biases. 
 2. **Seesaw Effect in Context Extension of SWA Hybrid**. The advantage of SWA-NoPE hybrids over LA-NoPE hybrids in long-context performance is reversed after long-context pretraining, especially for layer-wise hybrids, due to their **Short-Context Learning Trap in Context Extension**.
